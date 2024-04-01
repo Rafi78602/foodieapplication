@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body{
+        background: linear-gradient(45deg,lightgreen,lightsalmon,lightgreen);
+        font-family:"Comic Sans Ms", sans-serif;
+        text-align: center;
+    }
+    h1{
+        font-family: castel iar,sans-sarif;
+        font-size: 40px ;
+    }
+    h2{
+        background: linear-gradient(45deg,red,black,red);
+        color: white;
+        padding: 15px;
+        border-radius: 50%;
+        width: 800px;
+        margin: auto;
+        box-shadow: 0 0 10px black;
+    }
+    table{
+        width: 100%;
+    }
+    img{
+        border-radius: 10px;
+        box-shadow: 0 0 10px; black;
+    }
+</style>
+<body>
+    <div align="center">
+        <a href="#Home">Home</a>|
+        <a href="#Burgers">Burgers</a>|
+        <a href="#Fries">Fries</a>|
+        <a href="#Greens">Greens</a>|
+        <a href="#Noodles">Noodles</a>|
+        <a href="#Deserts">Deserts</a>|
+    </div>
+    <div id="Home">
+        <h1>
+            <span style="color:red">YUMMY</span>
+            <span style="color: yellow;">FOODS</span>
+        </h1>
+        <h2>Welcome to Yummy Foods</h2>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque vel beatae, quidem maiores tempore necessitatibus quas eius incidunt eveniet facilis.</p>
+        <table>
+            <tr>
+                <td>
+                    <img src="./1.jpg" width="500" height="300">
+                </td>
+                <td>
+                    <img src="./2.jpg" width="500" height="300">
+                </td>
+                <tr>
+                    <td>Awesome Taste</td>
+                    <td>Awesome Ingredients</td>
+                </tr>
+            </tr>
+        </table>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae, cupiditate.</p>
+    </div>
+    <div id="Burgers">
+        <h2>Burgors Collection</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus libero, atque recusandae hic modi id. Natus officia obcaecati debitis esse?</p>
+        <table>
+            <tr>
+                <td>
+                    <img src="./3.jpg" width="500" height="300">
+                </td>
+                <td>
+                    <img src="./4.jpg" width="500" height="300">
+                </td>
+                <td>
+                    <img src="./5.jpg" width="500" height="300">
+                </td>
+                <td>
+                    <img src="./6.jpg" width="500" height="300">
+                </td>
+                <tr>
+                    <td>Burger one</td>
+                    <td>Burger two</td>
+                    <td>Burger three</td>
+                    <td>Burger four</td>
+                </tr>
+            </tr>
+        </table>
+        <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores facilis amet beatae dolore obcaecati veniam repudiandae error ex fugit accusamus.
+        </p>
+    </div>
+    <div id="Fries">
+        <h2>Fire and ice with our Fries</h2>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum ullam illum nam numquam quis quaerat quam, aspernatur sunt mollitia porro nisi id quasi atque ut? Tempora illo veniam nulla nostrum!</p>
+        <table>
+            <tr>
+                <td>
+                    <img src="./7.jpg" width="500" height="300">
+                </td>
+                <td>
+                    <img src="./8.jpg" width="500" height="300">
+                </td>
+                <td>
+                    <img src="./9.jpg" width="500" height="300">
+                </td>
+                <td>
+                    <img src="./10.jpg" width="500" height="300">
+                </td>
+            </tr>
+            <tr>
+                <td>fries one</td>
+                <td>fries two</td>
+                <td>fries three</td>
+                <td>fries four</td>
+            </tr>
+        </table>
+        <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae, et repudiandae sunt quam iure quisquam delectus unde deleniti ex doloremque placeat eligendi animi quis ipsa itaque soluta maxime dignissimos dolor? Autem corporis, dolorem labore ducimus beatae delectus nihil aliquid accusamus.
+        </p>
+    </div>
+    <div id="Greens">
+     <h2>Eat Healthy and stay Healthy</h2>
+     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus vitae numquam officia iste architecto illo delectus. Aut esse quasi dolores repellat, neque doloribus numquam amet nesciunt? Possimus, officiis magnam? Ex.</p>
+     <table>
+        <tr>
+            <td>
+                <img src="./11.jpg" width="500" height="300">
+            </td>
+            <td>
+                <img src="./12.jpg" width="500" height="300">
+            </td>
+            <td>
+                <img src="./13.jpg" width="500" height="300">
+            </td>
+            <td>
+                <img src="./14.jpg" width="500" height="300">
+            </td>
+        </tr>
+        <tr>
+            <td>Healthy one</td>
+            <td>Healthy two</td>
+            <td>Healthy three</td>
+            <td>Healthy Four</td>
+        </tr>
+     </table>
+     <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, laboriosam, velit placeat sunt voluptates nam repudiandae culpa possimus perspiciatis dolores ad excepturi iure, expedita ullam harum! Ab nihil eius iste.
+     </p>
+    </div>
+    <div id="Noodles">
+        <h2>Do Google and Eat Noodles</h2>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate sequi quo architecto ea incidunt atque suscipit voluptates quidem accusantium nisi a voluptatum culpa expedita, ad eveniet repellendus adipisci numquam voluptatem?</p>
+<table>
+    <tr>
+        <td>
+            <img src="./15.jpg" width="500" height="300">
+        </td>
+        <td>
+            <img src="./16.jpg" width="500" height="300">
+        </td>
+        <td>
+            <img src="./17.jpg" width="500" height="300">
+        </td>
+        <td>
+            <img src="./18.jpg" width="500" height="300">
+        </td>
+    </tr>
+    <tr>
+        <td>Noodle one</td>
+        <td>Noodle two</td>
+        <td>Noodle three</td>
+        <td>Noodle Four</td>
+    </tr>
+</table>
+<p>
+    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint, quas quasi? Ut, similique totam omnis neque quidem suscipit voluptatum esse?
+</p>
+    </div>
+    <div id="Deserts">
+<h2>Enjoy the Deserts</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia soluta voluptatem eaque deleniti, dicta vero est nesciunt eos in dignissimos, aliquid qui pariatur sapiente iure optio officiis assumenda minus et voluptatibus provident. Unde aliquid dignissimos itaque nesciunt possimus. Voluptatibus, cum.</p>
+<table>
+    <tr>
+        <td>
+            <img src="./19.jpg" width="500" height="300">
+        </td>
+        <td>
+            <img src="./20.jpg" width="500" height="300">
+        </td>
+        <td>
+            <img src="./21.jpg" width="500" height="300">
+        </td>
+        <td>
+            <img src="./13.jpg" width="500" height="300">
+        </td>
+    </tr>
+    <tr>
+        <td>Desert one</td>
+        <td>Desert two</td>
+        <td>Desert three</td>
+        <td>Desert four</td>
+    </tr>
+</table>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus accusantium eos atque nemo maiores, distinctio fuga amet minima hic optio aliquam dicta in illo mollitia aliquid omnis commodi odit natus.</p>
+    </div>
+    <div>
+        <h2>Copy right & copy; 2024-Coading Brains</h2>
+        <p>All Rights Reserved</p>
+        <p>Developed By Shaik Mahammed Rafi</p>
+    </div>
+    <div align="center">
+        <a href="#home"></a>
+        <a href="#burger"></a>
+        <a href="#fries"></a>
+        <a href="#greens"></a>
+        <a href="#noodles"></a>
+        <a href="#deserts"></a>
+    </div>
+</body>
+</html>
